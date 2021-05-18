@@ -55,6 +55,7 @@
                             <div class ="col-sm-3 form-group" name ="city" >
                                 commune: <input type="text" class ="form-control">
                             </div>
+                            <p>Lorem, ipsum dolor.</p>
                             
                         </div>	
                         <div class= "form-group">
