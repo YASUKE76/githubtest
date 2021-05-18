@@ -55,12 +55,15 @@
                             <div class ="col-sm-3 form-group" name ="city" >
                                 commune: <input type="text" class ="form-control">
                             </div>
+                            <p>Lorem, ipsum dolor.</p>
                             
                         </div>	
                         <div class= "form-group">
                             GSM: <input type="text" class = form-control name ="gsm">
+                            GSM2: <input type="text" class = form-control name ="gsm2">
                         </div>
-                        
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae a nam illo, tempore, fuga harum quae amet architecto unde ea recusandae labore possimus laborum incidunt, quis inventore porro non aperiam?</p>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, blanditiis? Error amet dolor illum! Placeat reiciendis modi nostrum quas earum magni iure non odit porro esse beatae, laboriosam neque reprehenderit?</p>
                         <div class="form-group">
 						
 						    Email :<input type="email" placeholder="utilisez la meme adresse email" class="form-control">
