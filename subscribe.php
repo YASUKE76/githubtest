@@ -60,7 +60,7 @@
                         <div class= "form-group">
                             GSM: <input type="text" class = form-control name ="gsm">
                         </div>
-                        
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, blanditiis? Error amet dolor illum! Placeat reiciendis modi nostrum quas earum magni iure non odit porro esse beatae, laboriosam neque reprehenderit?</p>
                         <div class="form-group">
 						
 						    Email :<input type="email" placeholder="utilisez la meme adresse email" class="form-control">
