@@ -62,6 +62,7 @@
                             GSM: <input type="text" class = form-control name ="gsm">
                             GSM2: <input type="text" class = form-control name ="gsm2">
                         </div>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae a nam illo, tempore, fuga harum quae amet architecto unde ea recusandae labore possimus laborum incidunt, quis inventore porro non aperiam?</p>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, blanditiis? Error amet dolor illum! Placeat reiciendis modi nostrum quas earum magni iure non odit porro esse beatae, laboriosam neque reprehenderit?</p>
                         <div class="form-group">
 						
